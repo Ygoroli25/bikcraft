@@ -16,8 +16,18 @@
   font: 600 1.125rem/1.35 "Poppins", sans-serif;
 }
 
+
 .btn:hover {
   background: linear-gradient(#ffb60d, #e59317);
+}
+
+.btn-secundario {
+  background: linear-gradient(var(--cor-9), var(--cor-10));
+  color: var(--cor-0);
+}
+
+.btn-secundario:hover {
+  background: linear-gradient(var(--cor-8), var(--cor-9));
 }
 
 .link {
