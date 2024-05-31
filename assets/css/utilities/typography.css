@@ -70,7 +70,7 @@
 }
 
 @media (max-width: 600px){
-.font-1-m, .font-1-m-b {
+.font-1-m{
   font-size: 0.875rem;
 }
 }
