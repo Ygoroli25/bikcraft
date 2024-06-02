@@ -87,6 +87,11 @@
     grid-template-columns: 1fr;
   }
 
+  .bicicletas-imagem span {
+    padding: 4px 8px 4px 4px ;
+    font-size: 0.875rem;
+  }
+
   .bicicletas-conteudo ul {
     font-size: 1rem;
     grid-template-columns: 1fr 1fr;
