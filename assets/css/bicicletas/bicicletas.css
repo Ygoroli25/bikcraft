@@ -1,5 +1,5 @@
 .bicicletas-bg {
- background: linear-gradient(to right, var(--cor-0) 30%, var(--cor-11) 0%);
+ background: url('../../img/dec/top-right.svg') no-repeat top 40px right 40px, linear-gradient(to right, var(--cor-0) 30%, var(--cor-11) 0%);
 }
 
 .bicicletas {

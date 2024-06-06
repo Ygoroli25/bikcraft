@@ -84,6 +84,10 @@ background-color: currentColor;
   padding: 60px 0;
 }
 
+.titulo{
+  background: url('../../img/dec/top-right.svg') no-repeat top right 20px;
+}
+
 .titulo p {
   margin-bottom: 4px;
 }
@@ -97,5 +101,11 @@ background-color: currentColor;
     font-size: 1rem;
     text-transform: lowercase;
     font-weight: 400;
+  }
+}
+
+@media (max-width: 450px){
+  .titulo {
+    background: none;
   }
 }
