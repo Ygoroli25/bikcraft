@@ -49,13 +49,16 @@
   transform: rotate(180deg);
 }
 
+.js .perguntas dd {
+display: none;
+}
+
 .perguntas dd {
   margin-top: 20px;
   max-width: 80ch;
-  display: none;
 }
 
-.perguntas dd.ativa {
+.js .perguntas dd.ativa {
   display: block;
 }
 
